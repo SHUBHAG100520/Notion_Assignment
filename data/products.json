@@ -1,0 +1,73 @@
+[
+  {
+    "id": "P1",
+    "title": "Midi Wrap Dress",
+    "price": 119,
+    "tags": [
+      "wedding",
+      "midi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": "Charcoal"
+  },
+  {
+    "id": "P2",
+    "title": "Satin Slip Dress",
+    "price": 99,
+    "tags": [
+      "wedding",
+      "midi"
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M"
+    ],
+    "color": "Blush"
+  },
+  {
+    "id": "P3",
+    "title": "Knit Bodycon",
+    "price": 89,
+    "tags": [
+      "midi"
+    ],
+    "sizes": [
+      "M",
+      "L"
+    ],
+    "color": "Navy"
+  },
+  {
+    "id": "P4",
+    "title": "A-Line Day Dress",
+    "price": 75,
+    "tags": [
+      "daywear",
+      "midi"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "color": "Olive"
+  },
+  {
+    "id": "P5",
+    "title": "Sequin Party Dress",
+    "price": 149,
+    "tags": [
+      "party"
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ],
+    "color": "Black"
+  }
+]
